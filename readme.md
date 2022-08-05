@@ -10,3 +10,6 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 
 ### Grupo de Whatsapp
 <a href="https://chat.whatsapp.com/E5Ykk2XLw9X6mxvlk5fx6P">Grupo de Whatsapp</a>
+
+### Laboratorio 1
+<a href="https://docs.google.com/document/d/1a3oMJUXgb3cbKiSpDmaccEGzEQIAzdtLwIjzP9vCpl4/edit?usp=sharing">Laboratorio 1</a>
