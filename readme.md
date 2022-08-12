@@ -18,3 +18,6 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 
 ### Laboratorio 1
 <a href="https://docs.google.com/document/d/1a3oMJUXgb3cbKiSpDmaccEGzEQIAzdtLwIjzP9vCpl4/edit?usp=sharing">Laboratorio 1</a>
+
+### Laboratorio 2
+<a href="https://docs.google.com/document/d/15DiA8d_sXzOWIGbY20MEoOoDPSO1lKO7bO8nerk9fj4/edit?usp=sharing">Laboratorio 2</a>
