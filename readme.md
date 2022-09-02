@@ -34,7 +34,7 @@ https://www.google.com/logos/2017/logo17/logo17.html?hl=es
 CALIFICABLE
 
 ### Laboratorio 5
-<a href="https://docs.google.com/document/d/1u-GZ-3QROGL1sh7n4rvu2rpRg7nZcjSkqWztLe8DZbM/edit?usp=sharing">Laboratorio 4</a><br>
+<a href="https://docs.google.com/document/d/1u-GZ-3QROGL1sh7n4rvu2rpRg7nZcjSkqWztLe8DZbM/edit?usp=sharing">Laboratorio 5</a><br>
 
 
 
