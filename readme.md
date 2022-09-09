@@ -36,5 +36,7 @@ CALIFICABLE
 ### Laboratorio 5
 <a href="https://docs.google.com/document/d/1u-GZ-3QROGL1sh7n4rvu2rpRg7nZcjSkqWztLe8DZbM/edit?usp=sharing">Laboratorio 5</a><br>
 
+### Laboratorio 6
+<a href="https://docs.google.com/document/d/12yS6vsDbxn2xJ1gMkEwcXs7IhsodV1FqfTJPGDElZfo/edit?usp=sharing">Laboratorio 6</a><br>
 
 
