@@ -8,6 +8,10 @@ Este es el repositorio del curso. Ejemplos de código, acceso a videos, etc. ser
 <a href="https://miro.com/app/board/uXjVOhimo9E="><img width="128" src="https://store-images.s-microsoft.com/image/apps.59334.13959754522315136.c4ea2415-8e3c-42bf-8f77-e885eb7c11a1.be6eacf3-e0b4-4478-9abc-47192806c1b5?mode=scale&q=90&h=300&w=300"></a><br>
 <small>Click en el logo para ingresar</small>
 
+### Revisiones
+
+<a href="https://docs.google.com/spreadsheets/d/18QE3sH3ietJ-cKUs8jEMlBPr_2PaiMzjBxN-0iGofHE/edit?usp=sharing">Revisiones</a>
+
 
 ### Intro a programación
 https://www.google.com/logos/2017/logo17/logo17.html?hl=es
