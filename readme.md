@@ -62,3 +62,19 @@ Listar los archivos dentro la carpeta
 git status
 ```
 Nos permite ver el estado de nuestro repo
+
+```
+git init
+```
+Nos permite volver una carpeta un repo
+
+```
+git add .
+```
+Añadir cambios para la siguiente versión
+
+
+```
+git commit -m "Primera version"
+```
+Crea un version con los cambios incluidos en el git add .
