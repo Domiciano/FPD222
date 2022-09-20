@@ -46,3 +46,19 @@ CALIFICABLE
 ### Laboratorio 7
 <a href="https://docs.google.com/document/d/1Bsof0pcM0U_FYrVrDGgKVEeH2AcaxF2mc0y7lTGrnWE/edit?usp=sharing">Laboratorio 7</a><br>
 
+## Comando básicos
+
+```
+pwd
+```
+Nos permite saber la dirección de la carpeta sobre la que estamos parados en la terminal
+
+```
+ls
+```
+Listar los archivos dentro la carpeta
+
+```
+git status
+```
+Nos permite ver el estado de nuestro repo
