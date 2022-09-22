@@ -78,3 +78,22 @@ Añadir cambios para la siguiente versión
 git commit -m "Primera version"
 ```
 Crea un version con los cambios incluidos en el git add .
+
+
+```
+git log --oneline
+```
+Nos permite ver el historial
+
+```
+git remote -v
+```
+Nos permite ver los remotos de mi repositorio local
+
+```
+git remote add origin https://github.com/Domiciano/ProyectoGIT
+```
+Nos permite agregar un remoto a nuestro repositorio local
+
+
+
