@@ -99,3 +99,13 @@ Nos permite agregar un remoto a nuestro repositorio local
 git remote rm origin
 ```
 Nos permite eliminar un remoto
+
+```
+git branch -a
+```
+Esto me permite ver todas las ramas de trabajo
+
+```
+git push origin master
+```
+Esto permite subir los archivos a origin desde la rama master
