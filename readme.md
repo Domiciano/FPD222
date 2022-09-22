@@ -95,5 +95,7 @@ git remote add origin https://github.com/Domiciano/ProyectoGIT
 ```
 Nos permite agregar un remoto a nuestro repositorio local
 
-
-
+```
+git remote rm origin
+```
+Nos permite eliminar un remoto
