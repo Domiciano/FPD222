@@ -46,6 +46,15 @@ CALIFICABLE
 ### Laboratorio 7
 <a href="https://docs.google.com/document/d/1Bsof0pcM0U_FYrVrDGgKVEeH2AcaxF2mc0y7lTGrnWE/edit?usp=sharing">Laboratorio 7</a><br>
 
+### Laboratorio 8
+<a href="https://docs.google.com/document/d/1bhGJUpEjD_1Dsx3enk3Az76ViqKDWRgbyf92AGF0WIs/edit?usp=sharing">Laboratorio 8</a><br>
+
+
+
+
+
+
+
 ## Comando básicos
 
 ```
