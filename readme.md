@@ -54,6 +54,12 @@ CALIFICABLE
 <a href="https://docs.google.com/document/d/1UEsjAYPlfwhmjuYzgG3J9fHJwztfTx9nsdLmIGgIqo0/edit?usp=sharing">Laboratorio 9</a><br>
 
 
+### Laboratorio 10
+<a href="https://docs.google.com/document/d/16S5IXcVqr0PdESFkhJ0zGmVoaoVZ7N-ADLAFWrsWvJ0/edit?usp=sharing">Laboratorio 10</a><br>
+
+
+
+
 
 
 ## Comando básicos
