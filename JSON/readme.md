@@ -1,7 +1,7 @@
 ### Objeto pokemon
 
 ```
-var pokemon = `{
+let pokemon = `{
     "abilities": [
       {
         "ability": {
