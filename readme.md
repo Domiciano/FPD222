@@ -59,7 +59,7 @@ CALIFICABLE
 
 
 ### Laboratorio 11
-<a href="https://docs.google.com/document/d/1NThfmPcMZ06ttc6dYcq2iJFxk3Dfm94nAxRdBGyB2bU/edit?usp=sharing">Laboratorio 10</a><br>
+<a href="https://docs.google.com/document/d/1NThfmPcMZ06ttc6dYcq2iJFxk3Dfm94nAxRdBGyB2bU/edit?usp=sharing">Laboratorio 11</a><br>
 
 
 
