@@ -62,6 +62,8 @@ CALIFICABLE
 <a href="https://docs.google.com/document/d/1NThfmPcMZ06ttc6dYcq2iJFxk3Dfm94nAxRdBGyB2bU/edit?usp=sharing">Laboratorio 11</a><br>
 
 
+### Laboratorio 12
+<a href="https://docs.google.com/document/d/1zxVzKmuMXLtec0yUZGvNrto5M95m_giTpcg4FGwluRc/edit?usp=sharing">Laboratorio 12</a><br>
 
 
 
