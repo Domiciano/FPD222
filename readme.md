@@ -22,7 +22,8 @@ https://www.google.com/logos/2017/logo17/logo17.html?hl=es
 
 ### Proyecto final
 <a href="https://docs.google.com/document/d/1IpB9zMAv_1f_iHbjQY0UhIyiHM2GTwx5H_NZgDy6a1M/edit?usp=sharing">Proyecto final - Entrega 1</a>
-<a href="https://docs.google.com/document/d/1cF1U3TLjHwWi4ty0zVJ6jr7vFWUikh0LoEsb5qta298/edit">Proyecto final - Entrega 2</a>
+<a href="https://docs.google.com/document/d/1cF1U3TLjHwWi4ty0zVJ6jr7vFWUikh0LoEsb5qta298/edit">Proyecto final - Entrega 2</a><br>
+Entrega: Semana 14
 
 
 
