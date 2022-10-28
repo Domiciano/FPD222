@@ -66,6 +66,10 @@ CALIFICABLE
 <a href="https://docs.google.com/document/d/1zxVzKmuMXLtec0yUZGvNrto5M95m_giTpcg4FGwluRc/edit?usp=sharing">Laboratorio 12</a><br>
 
 
+### Laboratorio 13
+<a href="https://docs.google.com/document/d/1zgmjQLKwYcrghGfly-d06BV-F6JGzY9iNOufjZtLKCQ/edit">Laboratorio 13</a><br>
+
+
 
 ## Comando básicos
 
