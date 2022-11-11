@@ -24,7 +24,7 @@ https://www.google.com/logos/2017/logo17/logo17.html?hl=es
 <a href="https://docs.google.com/document/d/1IpB9zMAv_1f_iHbjQY0UhIyiHM2GTwx5H_NZgDy6a1M/edit?usp=sharing">Proyecto final - Entrega 1</a> <br>
 <a href="https://docs.google.com/document/d/1cF1U3TLjHwWi4ty0zVJ6jr7vFWUikh0LoEsb5qta298/edit">Proyecto final - Entrega 2</a><br>
 Entrega: Semana 14 <br>
-<a href="https://docs.google.com/document/d/1aAeU8KOtUCdWXEj0C3brrURi7QFrsAuS8nhbBiwMLrU/edit?usp=sharing">Proyecto final - Entrega 3</a>
+<a href="https://docs.google.com/document/d/1aAeU8KOtUCdWXEj0C3brrURi7QFrsAuS8nhbBiwMLrU/edit?usp=sharing">Proyecto final - Entrega 3</a> <br>
 Entrega: Semana 18 <br>
 
 
@@ -76,7 +76,11 @@ CALIFICABLE
 <a href="https://docs.google.com/document/d/1zgmjQLKwYcrghGfly-d06BV-F6JGzY9iNOufjZtLKCQ/edit">Laboratorio 13</a><br>
 
 ### Laboratorio 14
-<a href="https://docs.google.com/document/d/1CKUgDok1zfnk7_c06RAfgFPuxlahVUrkV5gyuHmlgGc/edit?usp=sharing">LAB 14</a><br>
+<a href="https://docs.google.com/document/d/1CKUgDok1zfnk7_c06RAfgFPuxlahVUrkV5gyuHmlgGc/edit?usp=sharing">Laboratorio 14</a><br>
+NO Calificable
+
+### Laboratorio 15
+<a href="https://docs.google.com/document/d/118xSvYqhwkIq2ZwraegjI-qN8jxKJEVs0GNswCbMyi4/edit?usp=sharing">Laboratorio 15</a><br>
 NO Calificable
 
 
