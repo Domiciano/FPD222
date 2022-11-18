@@ -84,6 +84,10 @@ NO Calificable
 NO Calificable
 
 
+### Laboratorio 16
+<a href="https://docs.google.com/document/d/1KikGneyPwu7vQCpn1wEdbXoZeNtP7J5h7haaMUp88GE/edit?usp=sharing">Laboratorio 16</a><br>
+NO Calificable
+
 ## Comando básicos
 
 ```
